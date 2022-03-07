@@ -42,7 +42,7 @@ nav li{
   font-weight: bold;
 }
 
-nav li {
+nav li a{
   display: block;
   color:#f6eee4
   padding-top: .5em;
