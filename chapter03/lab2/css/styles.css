@@ -38,17 +38,17 @@ text-align: center;
 nav li{
   display: inline-block;
   font-size: 1.5em;
-  font-family: "Geneva", Arial, sans-serif,
+  font-family: "Geneva", Arial, sans-serif;
   font-weight: bold;
 }
 
 nav li a{
   display: block;
-  color:#f6eee4
+  color:#f6eee4;
   padding-top: .5em;
-  padding-bottom .5em;
+  padding-bottom: .5em;
   padding-left: 2em;
-  padding right: 2em;
+  padding-right: 2em;
   text-decoration: none;
 
 }
@@ -57,7 +57,7 @@ nav li a{
 
 main{
   padding: 2%;
-  font-family: "Verdan", Arial, sans-serif.
+  font-family: "Verdan", Arial, sans-serif;
 }
 
 main p{
@@ -85,7 +85,7 @@ text-align: center;
 }
 
 contact{
-  text-algin: center;
+  text-align: center;
 }
 
 /* Style rules for footer content */
@@ -94,14 +94,14 @@ footer{
   font-size:0.85em;
   background-color:#2a1f14;
   color:#f6eee4;
-  padding-top:1%
-  padding-bottom:1%
+  padding-top:1%;
+  padding-bottom:1%;
   padding-left:0%;
   padding-right:0%;
 
 }
 
 footer a{
-  font-color: #f3e6d8
+  color: #f3e6d8;
   text-decoration: none;
 }
