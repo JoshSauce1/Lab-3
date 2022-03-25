@@ -29,7 +29,10 @@ display: block;
 /*Style rules to show mobile class and hide tab-desk class */
 .mobile{
   display: block;
-  
+}
+
+.tab-desk{
+  display: none;
 }
 /* Style rules for navigation area */
 
